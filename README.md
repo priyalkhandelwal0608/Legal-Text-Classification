@@ -1,4 +1,4 @@
-# ⚖️ Legal Text Classification
+# Legal Text Classification
 
 This project uses **LegalBERT** (a transformer model pretrained on legal documents) to classify legal case texts.  
 It includes both a backend model (`model.py`) and a simple **Streamlit web app** (`app.py`) where users can paste case text and get a predicted outcome.
